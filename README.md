@@ -1,4 +1,5 @@
 # microservices_java_spring_boot_jpa
+Microservices are a modern approach to software whereby application code is delivered in small, manageable pieces, independent of others. My example code contains movie-catalog-service that get data from movie-info-service & ratings-data-service.
 
 Main code - The small microservices architecture contains movie-catalog-service that get data from movie-info-service and ratings-data-service.
 
